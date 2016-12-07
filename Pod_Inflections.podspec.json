@@ -1,6 +1,6 @@
 {
-    "name": "Inflections",
-    "version": "1.0.1",
+    "name": "Pod_Inflections",
+    "version": "1.0.2",
     "summary": "Inflections is a port of several of the ActiveSupport Inflector methods into Objective C.",
     "homepage": "https://github.com/adamelliot/Inflections",
     "license": {

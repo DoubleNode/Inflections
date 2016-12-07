@@ -44,7 +44,7 @@
 		66BF3CFB12657CDF00B78BF0 /* InflectionsTestCase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InflectionsTestCase.m; sourceTree = "<group>"; };
 		66BF3D1912657F6900B78BF0 /* NSString+Inflections.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Inflections.h"; sourceTree = "<group>"; };
 		66BF3D1A12657F6900B78BF0 /* NSString+Inflections.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Inflections.m"; sourceTree = "<group>"; };
-		6AD3807E1DD03B1B00FFF836 /* Inflections.podspec.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Inflections.podspec.json; sourceTree = "<group>"; };
+		6AD3807E1DD03B1B00FFF836 /* Pod_Inflections.podspec.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Pod_Inflections.podspec.json; sourceTree = "<group>"; };
 		8DC2EF5A0486A6940098B216 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8DC2EF5B0486A6940098B216 /* Inflections.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Inflections.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2F7E79907B2D74100F64583 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
@@ -81,7 +81,7 @@
 		0867D691FE84028FC02AAC07 /* Inflections */ = {
 			isa = PBXGroup;
 			children = (
-				6AD3807E1DD03B1B00FFF836 /* Inflections.podspec.json */,
+				6AD3807E1DD03B1B00FFF836 /* Pod_Inflections.podspec.json */,
 				089C1665FE841158C02AAC07 /* Resources */,
 				66BF3CFE12657CE500B78BF0 /* Tests */,
 				08FB77AEFE84172EC02AAC07 /* Classes */,
